@@ -1,16 +1,60 @@
-## Hi there 👋
+# <h2 align="center">Hola 🙋🏻, Soy Cristopher Gaytán</h2>
 
-<!--
-**cristotest/cristotest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Software Tester 
+Soy QA Software Tester con experiencia en pruebas manuales, documentación de casos de prueba, gestión de bugs y validación funcional. Actualmente estoy fortaleciendo mis habilidades como QA Automation, trabajando con herramientas como Playwright, Python, Pytest, Git, GitHub y automatización de pruebas web.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 🔎 Experiencia en QA Manual y pruebas funcionales
+- 🧪 Diseño y ejecución de casos de prueba
+- 🐞 Reporte y seguimiento de bugs
+- 🤖 En transición hacia QA Automation
+- 💻 Practicando automatización con Playwright + Python
+- 📚 Aprendiendo buenas prácticas de Git, GitHub y frameworks de testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## <h3 align="left">Lenguajes y Herramientas:</h3>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,figma"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
+        <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" /> 
+            <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" /> <img height="40" src="https://skillicons.dev/icons?i=python"/>
+          </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDE's:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=aws"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows"/> 
+            <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
+          </td>
+    </tr>
+</table>
+
+
+
+## <h3 align="left">Conecta conmigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/cristopher-gaytan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranavarya37" height="30" width="40" /></a> /cristopher-gaytan
+</p>
