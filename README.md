@@ -1,4 +1,5 @@
 # <h2 align="center">Hola 🙋🏻, Soy Cristopher Gaytán</h2>
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=cristotest-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/cristotest?tab=followers)<br/>
 
 ## QA Software Tester 
 Soy QA Software Tester con experiencia en pruebas manuales, documentación de casos de prueba, gestión de bugs y validación funcional. Actualmente estoy fortaleciendo mis habilidades como QA Automation, trabajando con herramientas como Playwright, Python, Pytest, Git, GitHub y automatización de pruebas web.
