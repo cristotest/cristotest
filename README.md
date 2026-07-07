@@ -1,11 +1,11 @@
 # <h2 align="center">Hola 🙋🏻, Soy Cristopher Gaytán</h2>
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=cristotest-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/cristotest?tab=followers)<br/>
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=cristotest-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)]<br/>
 
 ## QA Software Tester 
 Soy QA Software Tester con experiencia en pruebas manuales, documentación de casos de prueba, gestión de bugs y validación funcional. Actualmente estoy fortaleciendo mis habilidades como QA Automation, trabajando con herramientas como Playwright, Python, Pytest, Git, GitHub y automatización de pruebas web.
 
 ## 🚀 Sobre mí
-- 🔎 Experiencia en QA Manual y pruebas funcionales
+- 🔎 Experiencia en QA Manual, Pruebas funcionales y Pruebas no funcionales
 - 🧪 Diseño y ejecución de casos de prueba
 - 🐞 Reporte y seguimiento de bugs
 - 🤖 En transición hacia QA Automation
@@ -16,16 +16,16 @@ Soy QA Software Tester con experiencia en pruebas manuales, documentación de ca
 ## <h3 align="left">Lenguajes y Herramientas:</h3>
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Lenguajes:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=python"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
@@ -40,10 +40,6 @@ Soy QA Software Tester con experiencia en pruebas manuales, documentación de ca
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDE's:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=aws"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
